@@ -1,0 +1,1256 @@
+﻿Log file open, 07/27/22 18:03:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Farmergeddon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204373
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3800XT 8-Core Processor            , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=SupershotJR -epicuserid=414c60e6f9024782bbab8ad497ed29d2 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Engine.ini]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Engine.ini]
+[2022.07.27-17.03.45:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Engine.ini]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Engine.ini]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.07.27-17.03.45:195][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Engine.ini]
+[2022.07.27-17.03.45:196][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Engine.ini]
+[2022.07.27-17.03.45:218][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.27-17.03.45:218][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.27-17.03.45:219][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.27-17.03.45:219][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.27-17.03.45:219][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.07.27-17.03.45:219][  0]LogHAL: Display: Platform has ~ 16 GB [17084551168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.27-17.03.45:220][  0]LogInit: Going up to parent DeviceProfile []
+[2022.07.27-17.03.45:220][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.27-17.03.45:220][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Scalability.ini]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.07.27-17.03.45:221][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Engine.ini]
+[2022.07.27-17.03.45:221][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Config/Windows/Editor.ini]
+[2022.07.27-17.03.45:221][  0]LogInit: Computer: DESKTOP-793B17Q
+[2022.07.27-17.03.45:221][  0]LogInit: User: scott
+[2022.07.27-17.03.45:221][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.07.27-17.03.45:221][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.27-17.03.45:221][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.07.27-17.03.45:221][  0]LogMemory: Platform Memory Stats for Windows
+[2022.07.27-17.03.45:221][  0]LogMemory: Process Physical Memory: 148.97 MB used, 148.97 MB peak
+[2022.07.27-17.03.45:221][  0]LogMemory: Process Virtual Memory: 131.15 MB used, 131.15 MB peak
+[2022.07.27-17.03.45:221][  0]LogMemory: Physical Memory: 6860.09 MB used,  9433.00 MB free, 16293.10 MB total
+[2022.07.27-17.03.45:221][  0]LogMemory: Virtual Memory: 134210464.00 MB used,  7262.45 MB free, 134217728.00 MB total
+[2022.07.27-17.03.45:225][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.27-17.03.45:242][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.07.27-17.03.45:243][  0]LogInit: Using OS detected language (en-US).
+[2022.07.27-17.03.45:243][  0]LogInit: Using OS detected locale (en-GB).
+[2022.07.27-17.03.45:246][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.07.27-17.03.45:403][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.27-17.03.45:413][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.27-17.03.45:422][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.27-17.03.45:422][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.27-17.03.45:545][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.07.27-17.03.45:548][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.07.27-17.03.45:548][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.07.27-17.03.45:548][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.07.27-17.03.45:548][  0]LogD3D11RHI: D3D11 adapters:
+[2022.07.27-17.03.45:638][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2022.07.27-17.03.45:638][  0]LogD3D11RHI:       5991/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:       0/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 SUPER
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:     DeviceId    : 21c4
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:     SubSysId    : 40141458
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:     SharedSystemMemory : 8542275584 bytes
+[2022.07.27-17.03.45:640][  0]LogD3D11RHI:     AdapterLuid : 0 52517
+[2022.07.27-17.03.45:645][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.07.27-17.03.45:645][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.27-17.03.45:645][  0]LogWindows: EnumDisplayDevices:
+[2022.07.27-17.03.45:645][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2022.07.27-17.03.45:645][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.07.27-17.03.45:646][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.07.27-17.03.45:646][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.07.27-17.03.45:646][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:   Driver Version: 466.63 (internal:27.21.14.6663, unified:466.63)
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:      Driver Date: 5-27-2021
+[2022.07.27-17.03.45:646][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 SUPER
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     DeviceId    : 21c4
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     SubSysId    : 40141458
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     SharedSystemMemory : 8542275584 bytes
+[2022.07.27-17.03.45:646][  0]LogD3D11RHI:     AdapterLuid : 0 52517
+[2022.07.27-17.03.45:714][  0]LogD3D11RHI: Warning: Failed to query support for 64 bit atomics
+[2022.07.27-17.03.45:714][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.07.27-17.03.45:714][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xffffffff
+[2022.07.27-17.03.45:714][  0]LogD3D11RHI: Async texture creation enabled
+[2022.07.27-17.03.45:714][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.07.27-17.03.45:735][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.07.27-17.03.45:764][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.07.27-17.03.46:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.07.27-17.03.46:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.27-17.03.46:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.27-17.03.46:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.27-17.03.46:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.27-17.03.46:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.27-17.03.46:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.27-17.03.46:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.27-17.03.46:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.27-17.03.46:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.27-17.03.46:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.27-17.03.46:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.27-17.03.46:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.27-17.03.46:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.27-17.03.46:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.07.27-17.03.46:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.27-17.03.46:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.27-17.03.46:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.07.27-17.03.46:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.07.27-17.03.46:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.07.27-17.03.46:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.07.27-17.03.46:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.07.27-17.03.46:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.07.27-17.03.46:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.07.27-17.03.46:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.07.27-17.03.46:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.07.27-17.03.46:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.27-17.03.46:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.27-17.03.46:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.07.27-17.03.46:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.27-17.03.46:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.27-17.03.46:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.27-17.03.46:139][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.07.27-17.03.46:145][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.27-17.03.46:170][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.07.27-17.03.46:193][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.27-17.03.46:193][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Intermediate/Shaders/WorkingDirectory/14680/).
+[2022.07.27-17.03.46:193][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scott/AppData/Local/Temp/UnrealShaderWorkingDir/54AA557845C65C044A3E71B01AC181A0/'.
+[2022.07.27-17.03.46:193][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.27-17.03.46:193][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.07.27-17.03.46:193][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.07.27-17.03.46:791][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.07.27-17.03.46:837][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/scott/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.07.27-17.03.46:837][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/scott/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.07.27-17.03.46:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.27-17.03.46:837][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.07.27-17.03.46:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.27-17.03.46:837][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.07.27-17.03.46:854][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.07.27-17.03.46:854][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.27-17.03.46:854][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.07.27-17.03.47:003][  0]LogDerivedDataCache: Speed tests for C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.15 seconds
+[2022.07.27-17.03.47:003][  0]LogDerivedDataCache: Display: Performance to C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1330.98MBs, RandomWriteSpeed=6.27MBs. Assigned SpeedClass 'Local'
+[2022.07.27-17.03.47:004][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.27-17.03.47:004][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.27-17.03.47:004][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.07.27-17.03.47:044][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.27-17.03.47:044][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.27-17.03.47:062][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2022.07.27-17.03.47:264][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.27-17.03.47:265][  0]LogInit: Active device profile: [000001B1BE890B00][000001B1BB59BBC0 49] Windows
+[2022.07.27-17.03.47:265][  0]LogInit: Profiles: [000001B1BE890B00][000001B1BB59BBC0 49] Windows, [000001B1BE87A200][000001B1BC4EC1C0 49] WindowsNoEditor, [000001B1BE891900][000001B1BC086340 49] WindowsServer, [000001B1BE87AF00][000001B1BC0DA4C0 49] WindowsClient, [000001B1BE893C00][000001B1BBD00640 49] IOS, [000001B1BE878F00][000001B1BBD727C0 49] iPadAir, [000001B1BE893E00][000001B1BBD76940 49] iPadAir2, [000001B1BE80CE00][000001B1BBDA6B80 49] IPadPro, [000001B1BE80CF00][000001B1BC322BC0 49] iPadAir3, [000001B1BE87BC00][000001B1BBDAAD00 49] iPadAir4, [000001B1BE80F800][000001B1BC422E80 49] iPadMini2, [000001B1BE87B000][000001B1BC427000 49] iPadMini3, [000001B1BE80FA00][000001B1BC467180 49] iPadMini4, [000001B1BE87B900][000001B1BC46F300 49] iPadMini5, [000001B1BE814600][000001B1B076B5C0 49] iPhone6, [000001B1BE814700][000001B1BC47F600 49] iPodTouch6, [000001B1BE892800][000001B1B07FD8C0 49] iPhone7, [000001B1BE892600][000001B1B0793900 49] iPodTouch7, [000001B1BE814100][000001B1B080DA80 49] iPhone5S, [000001B1BE80C700][000001B1BBB17C00 49] iPhone6Plus, [000001B1BE816500][000001B1BBB24200 49] iPhone6S, [000001B1BE80D300][000001B1BBB28380 49] iPhone6SPlus, [000001B1BE817B00][000001B1BBB2C500 49] iPhone7Plus, [000001B1BE80F700][000001B1BBB30680 49] iPhoneSE, [000001B1BE892B00][000001B1BBB34800 49] iPhone8, [000001B1BE80C600][000001B1BBCBC980 49] iPhone8Plus, [000001B1BE892100][000001B1BBCC0B00 49] iPhoneX, [000001B1BE80E900][000001B1BC41EC40 49] iPhoneXS, [000001B1BE893700][000001B1BBCC4D80 49] iPhoneXSMax, [000001B1BE80EF00][000001B1BBCC8EC0 49] iPhoneXR, [000001B1BE893B00][000001B1B6023040 49] iPhone11, [000001B1BE80DE00][000001B1B60271C0 49] iPhone11Pro, [000001B1BE890700][000001B1B602B340 49] iPhone11ProMax, [000001B1BE80E000][000001B1B602F4C0 49] iPhoneSE2, [000001B1BE893A00][000001B1BC0C3640 49] iPhone12Mini, [000001B1BE80E100][000001B1BC0C77C0 49] iPhone12, [000001B1BE890600][000001B1BC0D1940 49] iPhone12Pro, [000001B1BE80F400][000001B1BC0D5AC0 49] iPhone12ProMax, [000001B1BE890800][000001B1BBD040C0 49] iPadPro105, [000001B1BE80D900][000001B1BBD08240 49] iPadPro129, [000001B1BE893F00][000001B1BC0BE3C0 49] iPadPro97, [000001B1BE80FC00][000001B1BC3B8540 49] iPadPro2_129, [000001B1BE893900][000001B1BC3BC6C0 49] iPad5, [000001B1BE80C300][000001B1BC3C0840 49] iPad6, [000001B1BE891B00][000001B1BC3C49C0 49] iPad7, [000001B1BE80F600][000001B1BC3C8B40 49] iPad8, [000001B1BE891600][000001B1BC3CCCC0 49] iPadPro11, [000001B1BE80ED00][000001B1BBCCCE00 49] iPadPro2_11, [000001B1BE891A00][000001B1BC3D0F40 49] iPadPro3_129, [000001B1BE80EE00][000001B1BC3D5080 49] iPadPro4_129, [000001B1BE890500][000001B1BC3D91C0 49] AppleTV, [000001B1BE80F000][000001B1B06FF340 49] AppleTV4K, [000001B1BE891C00][000001B1B07034C0 49] TVOS, [000001B1BE80C800][000001B1B0707640 49] Mac, [000001B1BE892500][000001B1B070B7C0 49] MacClient, [000001B1BE80EC00][000001B1B070F940 49] MacNoEditor, [000001B1BE893500][000001B1B0713AC0 49] MacServer, [000001B1BE80CA00][000001B1B07A20C0 49] Linux, [000001B1BE890400][000001B1B0796240 49] LinuxAArch64, [000001B1BE80DA00][000001B1B078E3C0 49] LinuxNoEditor, [000001B1BE891D00][000001B1B078A540 49] LinuxAArch64NoEditor, [000001B1BE80E700][000001B1B07866C0 49] LinuxClient, [000001B1BE891400][000001B1B0782840 49] LinuxAArch64Client, [000001B1BE80E800][000001B1B077A9C0 49] LinuxServer, [000001B1BE892F00][000001B1B0776B40 49] LinuxAArch64Server, [000001B1BE80D700][000001B1B0772CC0 49] Android, [000001B1BE893D00][000001B1B076EE40 49] Android_Low, [000001B1BE80CB00][000001B1B06FAF80 49] Android_Mid, [000001B1BE892200][000001B1BC46B0C0 49] Android_High, [000001B1BE80CC00][000001B1BB593200 49] Android_Default, [000001B1BE891300][000001B1BB597340 49] Android_Adreno4xx, [000001B1BE87A400][000001B1B071B4C0 49] Android_Adreno5xx_Low, [000001B1BE815C00][000001B1B071F640 49] Android_Adreno5xx, [000001B1BE87A700][000001B1B07237C0 49] Android_Adreno6xx, [000001B1BE816000][000001B1B0727940 49] Android_Adreno6xx_Vulkan, [000001B1BE878400][000001B1B072BAC0 49] Android_Mali_T6xx, [000001B1BE814F00][000001B1BC4AA0C0 49] Android_Mali_T7xx, [000001B1BE879D00][000001B1BC4AE240 49] Android_Mali_T8xx, [000001B1BE815F00][000001B1BC4B23C0 49] Android_Mali_G71, [000001B1BE87A900][000001B1BC4B6540 49] Android_Mali_G72, [000001B1BE817300][000001B1BC4BA6C0 49] Android_Mali_G72_Vulkan, [000001B1BE87BF00][000001B1BC4BE840 49] Android_Mali_G76, [000001B1BE816200][000001B1BC4C29C0 49] Android_Mali_G76_Vulkan, [000001B1BE879F00][000001B1BC4C6B40 49] Android_Mali_G77, [000001B1BE814900][000001B1BC4CACC0 49] Android_Mali_G77_Vulkan, [000001B1BE879200][000001B1BC4CEE40 49] Android_Mali_G78, [000001B1BE815300][000001B1BC04CFC0 49] Android_Mali_G78_Vulkan, [000001B1BE87B500][000001B1BC051140 49] Android_Mali_G710, [000001B1BE817E00][000001B1B0717280 49] Android_Mali_G710_Vulkan, [000001B1BE878700][000001B1BC0553C0 49] Android_Vulkan_SM5, [000001B1BE817F00][000001B1BC059500 49] Android_PowerVR_G6xxx, [000001B1BE87A000][000001B1BC061680 49] Android_PowerVR_GT7xxx, [000001B1BE816B00][000001B1BC065800 49] Android_PowerVR_GE8xxx, [000001B1BE87B800][000001B1BC069980 49] Android_PowerVR_GM9xxx, [000001B1BE816800][000001B1BC06DB00 49] Android_PowerVR_GM9xxx_Vulkan, [000001B1BE879600][000001B1BC070100 49] Android_TegraK1, [000001B1BE815700][000001B1BC074280 49] Android_Unknown_Vulkan, [000001B1BE87AD00][000001B1BC078400 49] Lumin, [000001B1BE817D00][000001B1BC07C580 49] Lumin_Desktop, [000001B1BE878E00][000001B1BC080700 49] HoloLens, 
+[2022.07.27-17.03.47:365][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.27-17.03.47:365][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.27-17.03.47:366][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.27-17.03.47:366][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.27-17.03.47:366][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.27-17.03.47:377][  0]LogNetVersion: Farmergeddon 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1272316923)
+[2022.07.27-17.03.47:681][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.07.27-17.03.47:726][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.07.27-17.03.47:732][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.07.27-17.03.47:732][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.07.27-17.03.47:732][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.27-17.03.47:946][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 94380FF0464328843AA8AFA430FF7103 | Instance: 8129CEBF4D4A0271AAC37BB4F0F340FD (DESKTOP-793B17Q-14680).
+[2022.07.27-17.03.47:974][  0]LogPython: Using Python 3.7.7
+[2022.07.27-17.03.48:470][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.27-17.03.48:474][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.27-17.03.48:596][  0]SourceControl: Source control is disabled
+[2022.07.27-17.03.48:596][  0]SourceControl: Source control is disabled
+[2022.07.27-17.03.48:598][  0]SourceControl: Source control is disabled
+[2022.07.27-17.03.48:602][  0]SourceControl: Source control is disabled
+[2022.07.27-17.03.48:608][  0]SourceControl: Source control is disabled
+[2022.07.27-17.03.48:612][  0]LogUProjectInfo: Found projects:
+[2022.07.27-17.03.48:774][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.27-17.03.48:808][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.27-17.03.48:821][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.27-17.03.48:821][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.27-17.03.48:923][  0]LogCollectionManager: Loaded 0 collections in 0.001750 seconds
+[2022.07.27-17.03.48:944][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Collections/' took 0.00s
+[2022.07.27-17.03.48:944][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/Developers/scott/Collections/' took 0.00s
+[2022.07.27-17.03.48:944][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/Collections/' took 0.00s
+[2022.07.27-17.03.48:944][  0]LogOcInput: OculusInput pre-init called
+[2022.07.27-17.03.49:125][  0]LogEngine: Initializing Engine...
+[2022.07.27-17.03.49:127][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.07.27-17.03.49:127][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.07.27-17.03.49:127][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.07.27-17.03.49:128][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.27-17.03.49:217][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.27-17.03.49:224][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.27-17.03.49:228][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.27-17.03.49:231][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.27-17.03.49:231][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.27-17.03.49:231][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.27-17.03.49:231][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.27-17.03.49:231][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.27-17.03.49:232][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.27-17.03.49:232][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.27-17.03.49:232][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.27-17.03.49:232][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.27-17.03.49:232][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.27-17.03.49:232][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.27-17.03.49:232][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.27-17.03.49:232][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.27-17.03.49:232][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.27-17.03.49:232][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.27-17.03.49:232][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.27-17.03.49:244][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.27-17.03.49:244][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.07.27-17.03.49:260][  0]LogAudioMixer: Display: Using Audio Device Headphones (2- High Definition Audio Device)
+[2022.07.27-17.03.49:262][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.27-17.03.49:264][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.27-17.03.49:264][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.27-17.03.49:264][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.27-17.03.49:264][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.27-17.03.49:264][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.27-17.03.49:265][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.27-17.03.49:265][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.27-17.03.49:265][  0]LogInit: FAudioDevice initialized.
+[2022.07.27-17.03.49:265][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.27-17.03.49:265][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.27-17.03.49:430][  0]LogDerivedDataCache: Saved boot cache 0.17s 94MB C:/Users/scott/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.07.27-17.03.49:432][  0]LogInit: Texture streaming: Enabled
+[2022.07.27-17.03.49:441][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.07.27-17.03.49:445][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.27-17.03.49:445][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.07.27-17.03.49:449][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.07.27-17.03.49:471][  0]LogInit: Transaction tracking system initialized
+[2022.07.27-17.03.49:488][  0]BlueprintLog: New page: Editor Load
+[2022.07.27-17.03.49:534][  0]LocalizationService: Localization service is disabled
+[2022.07.27-17.03.49:552][  0]TimingProfiler: Initialize
+[2022.07.27-17.03.49:552][  0]TimingProfiler: OnSessionChanged
+[2022.07.27-17.03.49:552][  0]LoadingProfiler: Initialize
+[2022.07.27-17.03.49:552][  0]LoadingProfiler: OnSessionChanged
+[2022.07.27-17.03.49:552][  0]NetworkingProfiler: Initialize
+[2022.07.27-17.03.49:552][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.27-17.03.49:552][  0]MemoryProfiler: Initialize
+[2022.07.27-17.03.49:552][  0]MemoryProfiler: OnSessionChanged
+[2022.07.27-17.03.49:669][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.07.27-17.03.49:669][  0]LogCook: Display: Mobile HDR setting 1
+[2022.07.27-17.03.49:815][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/' took 0.00s
+[2022.07.27-17.03.49:942][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.27-17.03.49:946][  0]SourceControl: Source control is disabled
+[2022.07.27-17.03.49:946][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.729
+[2022.07.27-17.03.49:947][  0]Cmd: MAP LOAD FILE="../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.27-17.03.49:947][  0]LightingResults: New page: Lighting Build
+[2022.07.27-17.03.49:948][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.03.49:948][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.03.49:948][  0]MapCheck: New page: Map Check
+[2022.07.27-17.03.49:948][  0]LightingResults: New page: Lighting Build
+[2022.07.27-17.03.49:951][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.27-17.03.49:954][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.07.27-17.03.50:230][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.07.27-17.03.50:231][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.07.27-17.03.50:231][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.27-17.03.50:236][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.07.27-17.03.50:237][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.27-17.03.50:237][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.31ms to complete.
+[2022.07.27-17.03.50:237][  0]LogFileHelpers: Loading map 'MainMenu' took 0.290
+[2022.07.27-17.03.50:239][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.021
+[2022.07.27-17.03.50:341][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-17.03.50:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-17.03.50:351][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-17.03.50:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.27-17.03.50:370][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3822 classes and 928 folders.
+[2022.07.27-17.03.50:372][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.07.27-17.03.50:373][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.27-17.03.50:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.27-17.03.50:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.07.27-17.03.50:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.07.27-17.03.50:373][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.27-17.03.50:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.27-17.03.50:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.07.27-17.03.50:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.07.27-17.03.50:374][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.07.27-17.03.50:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.07.27-17.03.50:374][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:374][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.07.27-17.03.50:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.07.27-17.03.50:374][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.27-17.03.50:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.27-17.03.50:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.07.27-17.03.50:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.27-17.03.50:375][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.27-17.03.50:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.27-17.03.50:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.07.27-17.03.50:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.07.27-17.03.50:376][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.27-17.03.50:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.27-17.03.50:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.07.27-17.03.50:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:376][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.27-17.03.50:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.27-17.03.50:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.07.27-17.03.50:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:377][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.27-17.03.50:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.27-17.03.50:377][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:377][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.07.27-17.03.50:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:377][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.27-17.03.50:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.27-17.03.50:377][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:377][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.07.27-17.03.50:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.07.27-17.03.50:378][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.27-17.03.50:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.27-17.03.50:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.07.27-17.03.50:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.07.27-17.03.50:378][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.27-17.03.50:378][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:378][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.27-17.03.50:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.07.27-17.03.50:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:379][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.27-17.03.50:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.27-17.03.50:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.07.27-17.03.50:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.07.27-17.03.50:379][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.27-17.03.50:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.27-17.03.50:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.07.27-17.03.50:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:380][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.27-17.03.50:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.27-17.03.50:380][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:380][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.07.27-17.03.50:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.07.27-17.03.50:380][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.27-17.03.50:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.27-17.03.50:380][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:380][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.07.27-17.03.50:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:381][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.27-17.03.50:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.27-17.03.50:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.07.27-17.03.50:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:381][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.27-17.03.50:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.27-17.03.50:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:382][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.07.27-17.03.50:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.07.27-17.03.50:382][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.27-17.03.50:382][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:382][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.27-17.03.50:382][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:382][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.07.27-17.03.50:382][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.07.27-17.03.50:383][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.27-17.03.50:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.27-17.03.50:383][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:383][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.07.27-17.03.50:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:383][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.27-17.03.50:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.27-17.03.50:383][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:383][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.07.27-17.03.50:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.07.27-17.03.50:384][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.27-17.03.50:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.27-17.03.50:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.07.27-17.03.50:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:384][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.27-17.03.50:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.27-17.03.50:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.07.27-17.03.50:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.07.27-17.03.50:385][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.07.27-17.03.50:385][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:385][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.07.27-17.03.50:385][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:385][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.07.27-17.03.50:385][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:385][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.27-17.03.50:385][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:385][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.27-17.03.50:385][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:385][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.07.27-17.03.50:385][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:386][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.27-17.03.50:386][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:386][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.27-17.03.50:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.07.27-17.03.50:386][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.07.27-17.03.50:386][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.27-17.03.50:386][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.27-17.03.50:386][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.27-17.03.50:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.27-17.03.50:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.07.27-17.03.50:386][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.07.27-17.03.50:437][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.07.27-17.03.50:437][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2022.07.27-17.03.50:488][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.27-17.03.50:489][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.27-17.03.50:491][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.27-17.03.50:557][  0]LogRenderer: Reallocating scene render targets to support 844x416 Format 10 NumSamples 1 (Frame:1).
+[2022.07.27-17.03.50:614][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.07.27-17.03.50:614][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.07.27-17.03.50:614][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.07.27-17.03.50:614][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.07.27-17.03.50:614][  0]LogLoad: (Engine Initialization) Total time: 6.40 seconds
+[2022.07.27-17.03.50:614][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.27-17.03.50:651][  0]LogAssetRegistry: Asset discovery search completed in 3.5896 seconds
+[2022.07.27-17.03.50:656][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.07.27-17.03.50:657][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.27-17.03.50:739][  8]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.27-17.03.50:757][ 10]LogD3D11RHI: Error: NvAPI_D3D11_SetDepthBoundsTest(1,0.000000, 1.000000) returned error code -1. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2022.07.27-17.03.51:633][111]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.27-17.03.53:297][280]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/player/Player.Player
+[2022.07.27-17.03.53:469][280]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.07.27-17.03.54:176][280]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.27-17.03.54:276][280]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.27-17.03.54:296][281]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.27-17.08.27:016][ 12]BlueprintLog: New page: Compile Player
+[2022.07.27-17.08.27:063][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.07.27-17.13.11:070][105]BlueprintLog: New page: Compile Player
+[2022.07.27-17.13.11:115][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.07.27-17.14.01:151][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.07.27-17.14.01:154][502]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.020
+[2022.07.27-17.14.01:155][502]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/player/Player] ([2] browsable assets)...
+[2022.07.27-17.14.01:169][502]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonBP/player/Player.Player_C]
+[2022.07.27-17.14.01:176][502]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/player/Player.Player]
+[2022.07.27-17.14.01:176][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/player/Player]
+[2022.07.27-17.14.01:224][502]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Player_Auto145EA29344DBB72FAE99E31A65957728A.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/player/Player_Auto1.uasset'
+[2022.07.27-17.14.01:225][502]LogFileHelpers: Auto-saving content packages took 0.070
+[2022.07.27-17.14.04:897][916]BlueprintLog: New page: Compile Player
+[2022.07.27-17.14.04:938][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.07.27-17.16.47:599][142]LogSlate: Window 'Player' being destroyed
+[2022.07.27-17.16.47:605][142]LogSlate: Window 'Player' being destroyed
+[2022.07.27-17.16.47:608][142]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.16.47:608][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.17.00:460][629]LogContentBrowser: Deferred new asset file creation: NewPaperSprite
+[2022.07.27-17.17.00:505][629]LogContentBrowser: Creating deferred item: NewPaperSprite
+[2022.07.27-17.17.12:721][ 95]LogContentBrowser: Attempting asset rename: NewPaperSprite -> EnemySpriteSheet
+[2022.07.27-17.17.12:789][ 95]LogContentBrowser: End creating deferred item NewPaperSprite
+[2022.07.27-17.17.14:804][329]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/ThirdPersonBP/Enemy/EnemySpriteSheet.EnemySpriteSheet
+[2022.07.27-17.17.17:322][607]LogRenderer: Reallocating scene render targets to support 1524x876 Format 10 NumSamples 1 (Frame:190).
+[2022.07.27-17.17.17:767][660]LogSlate: Window 'EnemySpriteSheet' being destroyed
+[2022.07.27-17.24.01:693][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.07.27-17.24.01:702][854]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.028
+[2022.07.27-17.24.01:702][854]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/player/Player] ([2] browsable assets)...
+[2022.07.27-17.24.01:736][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/player/Player.Player]
+[2022.07.27-17.24.01:736][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/player/Player]
+[2022.07.27-17.24.01:780][854]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Player_Auto225ADA5F249D53B57275784A092822172.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/player/Player_Auto2.uasset'
+[2022.07.27-17.24.01:781][854]LogFileHelpers: Auto-saving content packages took 0.079
+[2022.07.27-17.37.32:863][833]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.27-17.37.32:880][833]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.27-17.37.37:565][396]LogContentBrowser: Attempting asset rename: NewFolder -> enemysprite
+[2022.07.27-17.37.37:565][396]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.27-17.37.49:923][950]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\scott\Desktop\farmer-Sprite-Sheet.png)
+[2022.07.27-17.37.49:938][950]LogTexture: Display: Building textures: farmer-Sprite-Sheet (OODLE_AutoDXT, 128X192)
+[2022.07.27-17.38.26:876][429]LogSlate: Window 'Extract sprites' being destroyed
+[2022.07.27-17.38.55:557][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.07.27-17.38.55:563][828]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.020
+[2022.07.27-17.38.55:564][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Enemy/enemysprite/farmer-Sprite-Sheet] ([1] browsable assets)...
+[2022.07.27-17.38.55:566][828]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Enemy/enemysprite/farmer-Sprite-Sheet.farmer-Sprite-Sheet]
+[2022.07.27-17.38.55:566][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Enemy/enemysprite/farmer-Sprite-Sheet]
+[2022.07.27-17.38.55:567][828]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Auto3564000CD4496B81A6EAB50B25D78F5BB.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/Enemy/enemysprite/farmer-Sprite-Sheet_Auto3.uasset'
+[2022.07.27-17.38.55:568][828]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.07.27-17.39.00:486][417]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/ThirdPersonBP/Enemy/enemysprite/farmer-Sprite-Sheet_Sprite_17.farmer-Sprite-Sheet_Sprite_17
+[2022.07.27-17.39.06:233][ 36]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.39.06:233][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.39.11:975][721]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.39.11:975][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.40.11:690][139]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Enemy/enemysprite/farmer-Sprite-Sheet.farmer-Sprite-Sheet
+[2022.07.27-17.40.11:759][139]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.07.27-17.40.14:901][460]LogSlate: Window 'farmer-Sprite-Sheet' being destroyed
+[2022.07.27-17.48.40:921][938]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.07.27-17.48.40:921][938]LogContentBrowser: Deferred new asset file creation: farmer-Sprite-Sheet1
+[2022.07.27-17.48.40:945][938]LogContentBrowser: Creating deferred item: farmer-Sprite-Sheet1
+[2022.07.27-17.48.47:972][782]LogContentBrowser: Attempting asset rename: farmer-Sprite-Sheet1 -> idle
+[2022.07.27-17.48.47:973][782]LogContentBrowser: End creating deferred item farmer-Sprite-Sheet1
+[2022.07.27-17.49.32:672][151]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/ThirdPersonBP/Enemy/enemysprite/idle.idle
+[2022.07.27-17.49.50:851][318]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/idle8722E26A453F0CEA5DF4738A7DA7B521.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/enemysprite/idle.uasset'
+[2022.07.27-17.49.50:865][318]AssetCheck: New page: Asset Save: idle
+[2022.07.27-17.49.50:865][318]LogContentValidation: Display: Validating PaperFlipbook /Game/ThirdPersonBP/Enemy/enemysprite/idle.idle
+[2022.07.27-17.50.34:051][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.07.27-17.50.35:080][604]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.50.35:107][604]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.50.35:107][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.50.35:122][604]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Enemy/enemysprite/idle.idle
+[2022.07.27-17.50.36:192][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.07.27-17.50.36:204][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.07.27-17.50.36:214][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.51.14:495][100]LogTexture: Display: Building textures: farmer-Sprite-Sheet (BGRA8, 128X192)
+[2022.07.27-17.51.22:384][ 13]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.07.27-17.51.22:385][ 13]LogContentBrowser: Deferred new asset file creation: farmer-Sprite-Sheet1
+[2022.07.27-17.51.22:399][ 13]LogContentBrowser: Creating deferred item: farmer-Sprite-Sheet1
+[2022.07.27-17.51.24:917][316]LogContentBrowser: Attempting asset rename: farmer-Sprite-Sheet1 -> idle
+[2022.07.27-17.51.24:918][316]LogContentBrowser: End creating deferred item farmer-Sprite-Sheet1
+[2022.07.27-17.51.29:976][902]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/ThirdPersonBP/Enemy/enemysprite/idle.idle
+[2022.07.27-17.52.14:329][183]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/idle23E44FAD4110DC6DA16A9B81136A515A.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/enemysprite/idle.uasset'
+[2022.07.27-17.52.14:337][183]AssetCheck: New page: Asset Save: idle
+[2022.07.27-17.52.14:337][183]LogContentValidation: Display: Validating PaperFlipbook /Game/ThirdPersonBP/Enemy/enemysprite/idle.idle
+[2022.07.27-17.52.15:560][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.07.27-17.52.17:174][329]LogSlate: Window 'Save Content' being destroyed
+[2022.07.27-17.52.31:127][902]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Enemy/enemysprite/farmer-Sprite-Sheet.farmer-Sprite-Sheet
+[2022.07.27-17.53.25:788][170]LogContentBrowser: Attempting asset rename: enemysprite -> Nightenemysprite
+[2022.07.27-17.53.25:854][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/idleA93346FF46226A94E79DD0AB02252099.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/idle.uasset'
+[2022.07.27-17.53.25:861][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_17AA4AB5384F370B389AFB988480F7680C.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_17.uasset'
+[2022.07.27-17.53.25:867][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_1620FC0B1D4B66EE3DB21C659AC444ED51.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_16.uasset'
+[2022.07.27-17.53.25:874][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_15F08FD3A948BE02F3AE6337A9C1A4447F.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_15.uasset'
+[2022.07.27-17.53.25:880][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_149EEE05DE4F698F62FEA6D981B4411B54.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_14.uasset'
+[2022.07.27-17.53.25:886][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_13ABFF2263472E83F18C4401908D84D67E.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_13.uasset'
+[2022.07.27-17.53.25:892][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_1272D7594F444E9CA30E03D0A132226D49.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_12.uasset'
+[2022.07.27-17.53.25:899][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_1195CB7D004FE0C8ED56F9AEB253014815.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_11.uasset'
+[2022.07.27-17.53.25:905][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_108FBEE06A45B2C61C153A3E8A62C6FCCA.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_10.uasset'
+[2022.07.27-17.53.25:911][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_95186A8F24B2036274130D6961BED5315.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_9.uasset'
+[2022.07.27-17.53.25:917][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_80F8091D543D39EAECEF8588248C80CD3.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_8.uasset'
+[2022.07.27-17.53.25:923][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_72E18166349FF59C3D0A545AE6ECEB333.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_7.uasset'
+[2022.07.27-17.53.25:930][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_63507B307479553E1F0A8E18B4B13802D.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_6.uasset'
+[2022.07.27-17.53.25:936][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_5A90BBC2146320C811A8C7D9B434280AF.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_5.uasset'
+[2022.07.27-17.53.25:942][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_44FD9B2C24F17805920F42C8C7D9FDA5E.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_4.uasset'
+[2022.07.27-17.53.25:948][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_356CF81F64A4BDCE46B1F4B9922B43911.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_3.uasset'
+[2022.07.27-17.53.25:954][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_25091C11A476AE70DD22A2B9CD4A3438B.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_2.uasset'
+[2022.07.27-17.53.25:960][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_12E353A064E5A8E80880052A5D26B8120.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_1.uasset'
+[2022.07.27-17.53.25:966][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_083048E0D41155CE2A5C17E96D0DACD61.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_0.uasset'
+[2022.07.27-17.53.25:970][170]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-SheetE632839E4D885408C27CBD886A5A9387.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet.uasset'
+[2022.07.27-17.53.26:102][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.07.27-17.53.26:116][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.53.26:126][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:136][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:145][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.53.26:156][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.27-17.53.26:166][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.53.26:175][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:185][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:195][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:204][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:214][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:224][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:233][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.53.26:243][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.53.26:252][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.53.26:262][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.53.26:272][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:281][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.53.26:291][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.53.26:308][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.07.27-17.53.26:318][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.53.26:357][170]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.27-17.53.26:357][170]LogContentValidation: Display: Validating PaperFlipbook /Game/ThirdPersonBP/Enemy/Nightenemysprite/idle.idle
+[2022.07.27-17.53.26:357][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_17.farmer-Sprite-Sheet_Sprite_17
+[2022.07.27-17.53.26:357][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_16.farmer-Sprite-Sheet_Sprite_16
+[2022.07.27-17.53.26:357][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_15.farmer-Sprite-Sheet_Sprite_15
+[2022.07.27-17.53.26:357][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_14.farmer-Sprite-Sheet_Sprite_14
+[2022.07.27-17.53.26:357][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_13.farmer-Sprite-Sheet_Sprite_13
+[2022.07.27-17.53.26:357][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_12.farmer-Sprite-Sheet_Sprite_12
+[2022.07.27-17.53.26:357][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_11.farmer-Sprite-Sheet_Sprite_11
+[2022.07.27-17.53.26:357][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_10.farmer-Sprite-Sheet_Sprite_10
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_9.farmer-Sprite-Sheet_Sprite_9
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_8.farmer-Sprite-Sheet_Sprite_8
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_7.farmer-Sprite-Sheet_Sprite_7
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_6.farmer-Sprite-Sheet_Sprite_6
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_5.farmer-Sprite-Sheet_Sprite_5
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_4.farmer-Sprite-Sheet_Sprite_4
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_3.farmer-Sprite-Sheet_Sprite_3
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_2.farmer-Sprite-Sheet_Sprite_2
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_1.farmer-Sprite-Sheet_Sprite_1
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating PaperSprite /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet_Sprite_0.farmer-Sprite-Sheet_Sprite_0
+[2022.07.27-17.53.26:358][170]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Enemy/Nightenemysprite/farmer-Sprite-Sheet.farmer-Sprite-Sheet
+[2022.07.27-17.54.06:298][804]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.27-17.54.06:311][804]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.27-17.54.12:289][522]LogContentBrowser: Attempting asset rename: NewFolder -> dayspritesheet
+[2022.07.27-17.54.12:289][522]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.27-17.54.36:576][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.07.27-17.54.37:426][312]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.37:465][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.07.27-17.54.38:317][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.27-17.54.39:059][413]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.39:098][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.07.27-17.54.41:216][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.07.27-17.54.42:057][647]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.42:097][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.07.27-17.54.44:537][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.27-17.54.45:380][922]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.45:415][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.07.27-17.54.46:865][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.54.47:545][ 90]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.47:583][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.07.27-17.54.48:271][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.54.49:055][171]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.49:090][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.07.27-17.54.49:883][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.54.50:600][264]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.50:638][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.07.27-17.54.51:465][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.27-17.54.52:098][361]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.52:137][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.07.27-17.54.53:338][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.54.53:943][497]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.53:979][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.07.27-17.54.55:071][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.54.55:717][626]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.55:756][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.07.27-17.54.56:783][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.27-17.54.57:838][747]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.57:874][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.07.27-17.54.58:785][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.27-17.54.59:387][848]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.27-17.54.59:423][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.07.27-17.56.16:591][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.07.27-17.56.16:598][765]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.018
+[2022.07.27-17.56.16:598][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/player/Player] ([2] browsable assets)...
+[2022.07.27-17.56.16:606][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/player/Player.Player]
+[2022.07.27-17.56.16:607][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/player/Player]
+[2022.07.27-17.56.16:650][765]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Player_Auto48775C65142378CC317DEEF8EFCAEA0CA.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/player/Player_Auto4.uasset'
+[2022.07.27-17.56.16:651][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet] ([1] browsable assets)...
+[2022.07.27-17.56.16:653][765]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet.farmer-Sprite-Sheet]
+[2022.07.27-17.56.16:653][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet]
+[2022.07.27-17.56.16:655][765]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Auto4BB1A20C94FF32AC19E45A3A1894BAE5B.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Auto4.uasset'
+[2022.07.27-17.56.16:656][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_0] ([1] browsable assets)...
+[2022.07.27-17.56.16:659][765]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_0.farmer-Sprite-Sheet_Sprite_0]
+[2022.07.27-17.56.16:659][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_0]
+[2022.07.27-17.56.16:661][765]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_0_Aut1B5482FE4D58E0D509C200A2A9F659B9.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_0_Auto4.uasset'
+[2022.07.27-17.56.16:662][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_1] ([1] browsable assets)...
+[2022.07.27-17.56.16:666][765]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_1.farmer-Sprite-Sheet_Sprite_1]
+[2022.07.27-17.56.16:666][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_1]
+[2022.07.27-17.56.16:668][765]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_1_AutC3E59C524668EF7A5E16228739B43290.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_1_Auto4.uasset'
+[2022.07.27-17.56.16:681][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Enemy/dayspritesheet/idle] ([1] browsable assets)...
+[2022.07.27-17.56.16:685][765]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/ThirdPersonBP/Enemy/dayspritesheet/idle.idle]
+[2022.07.27-17.56.16:685][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Enemy/dayspritesheet/idle]
+[2022.07.27-17.56.16:686][765]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/idle_Auto4C8BC8C644E8200DDBE00FAB01D539400.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/Enemy/dayspritesheet/idle_Auto4.uasset'
+[2022.07.27-17.56.16:687][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_9] ([1] browsable assets)...
+[2022.07.27-17.56.16:690][765]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_9.farmer-Sprite-Sheet_Sprite_9]
+[2022.07.27-17.56.16:690][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_9]
+[2022.07.27-17.56.16:692][765]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_9_AutFBDDED6F422B5F2D4554149D635112BB.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_9_Auto4.uasset'
+[2022.07.27-17.56.16:693][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_6] ([1] browsable assets)...
+[2022.07.27-17.56.16:697][765]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_6.farmer-Sprite-Sheet_Sprite_6]
+[2022.07.27-17.56.16:697][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_6]
+[2022.07.27-17.56.16:699][765]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_6_Aut0DD1084E472515F4DE6F639053915051.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_6_Auto4.uasset'
+[2022.07.27-17.56.16:700][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_7] ([1] browsable assets)...
+[2022.07.27-17.56.16:703][765]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_7.farmer-Sprite-Sheet_Sprite_7]
+[2022.07.27-17.56.16:703][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_7]
+[2022.07.27-17.56.16:705][765]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_7_Aut324D3BEE4CEC6C09CE6C08B3D726C03B.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_7_Auto4.uasset'
+[2022.07.27-17.56.16:706][765]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_8] ([1] browsable assets)...
+[2022.07.27-17.56.16:709][765]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_8.farmer-Sprite-Sheet_Sprite_8]
+[2022.07.27-17.56.16:709][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_8]
+[2022.07.27-17.56.16:711][765]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/farmer-Sprite-Sheet_Sprite_8_Aut96AD8F774C20F9B2907D3E80975450BE.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Autosaves/Game/ThirdPersonBP/Enemy/dayspritesheet/farmer-Sprite-Sheet_Sprite_8_Auto4.uasset'
+[2022.07.27-17.56.16:712][765]LogFileHelpers: Auto-saving content packages took 0.114
+[2022.07.27-17.56.40:133][496]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2022.07.27-17.56.40:133][496]LogContentBrowser: Deferred new asset file creation: farmer-Sprite-Sheet1
+[2022.07.27-17.56.40:150][496]LogContentBrowser: Creating deferred item: farmer-Sprite-Sheet1
+[2022.07.27-17.56.42:602][791]LogContentBrowser: Attempting asset rename: farmer-Sprite-Sheet1 -> Walk
+[2022.07.27-17.56.42:603][791]LogContentBrowser: End creating deferred item farmer-Sprite-Sheet1
+[2022.07.27-17.56.44:661][ 35]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/ThirdPersonBP/Enemy/dayspritesheet/Walk.Walk
+[2022.07.27-17.57.32:616][712]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/WalkAF3AF8D44880D87DFA34C1AE827452AA.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/dayspritesheet/Walk.uasset'
+[2022.07.27-17.57.32:624][712]AssetCheck: New page: Asset Save: Walk
+[2022.07.27-17.57.32:624][712]LogContentValidation: Display: Validating PaperFlipbook /Game/ThirdPersonBP/Enemy/dayspritesheet/Walk.Walk
+[2022.07.27-17.57.50:073][796]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Walk669697E7447256D130AF4A8DCAE50F1B.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/Enemy/dayspritesheet/Walk.uasset'
+[2022.07.27-17.57.50:080][796]AssetCheck: New page: Asset Save: Walk
+[2022.07.27-17.57.50:080][796]LogContentValidation: Display: Validating PaperFlipbook /Game/ThirdPersonBP/Enemy/dayspritesheet/Walk.Walk
+[2022.07.27-17.57.53:285][180]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.57.53:285][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.58.02:569][243]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.58.02:569][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-17.58.25:928][  6]LogContentBrowser: Attempting asset rename: Player -> Day
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.Day_C' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.Day:TakeDamage.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.Day_C:TakeDamage' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.Day_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C:TakeDamage' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.25:977][  6]LogMetaData: Removing '/Game/ThirdPersonBP/player/Day.SKEL_Day_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/player/Player.PackageMetaData'
+[2022.07.27-17.58.26:015][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/player/Day" FILE="../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/player/Day.uasset" SILENT=true
+[2022.07.27-17.58.26:061][  6]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Day397C189D407A150C88841CA00292E9BD.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/player/Day.uasset'
+[2022.07.27-17.58.26:063][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/player/Player" FILE="../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/player/Player.uasset" SILENT=true
+[2022.07.27-17.58.26:063][  6]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/Player1DD9813342E61C68838E3C9BFE7F0941.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/player/Player.uasset'
+[2022.07.27-17.58.26:094][  6]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.27-17.58.26:094][  6]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/player/Day.Day
+[2022.07.27-17.58.26:094][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/player/Player.Player
+[2022.07.27-17.58.26:094][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/player/Player.Default__Player_C
+[2022.07.27-17.58.26:094][  6]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/player/Player.Player_C
+[2022.07.27-17.58.27:606][181]Cmd: TRANSACTION UNDO
+[2022.07.27-17.58.27:606][181]LogEditorTransaction: Undo Edit Frames Per Second
+[2022.07.27-17.58.28:753][295]Cmd: TRANSACTION UNDO
+[2022.07.27-17.58.28:754][295]LogEditorTransaction: Undo Edit Frames Per Second
+[2022.07.27-17.58.37:479][322]LogContentBrowser: Attempting asset rename: Day -> PlayerParent
+[2022.07.27-17.58.37:491][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.PlayerParent_C' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:491][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.PlayerParent_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:491][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.PlayerParent_C:TakeDamage' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:491][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:491][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:492][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:492][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:492][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:492][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:492][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:492][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:492][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:492][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.SKEL_PlayerParent_C:TakeDamage' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:492][322]LogMetaData: Removing '/Game/ThirdPersonBP/player/PlayerParent.PlayerParent:TakeDamage.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/player/Day.PackageMetaData'
+[2022.07.27-17.58.37:575][322]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/PlayerParentC514DC89441EB3CDE3AD9890CB7F1AA3.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/player/PlayerParent.uasset'
+[2022.07.27-17.58.37:615][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.07.27-17.58.37:639][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.07.27-17.58.37:649][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.07.27-17.58.37:657][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/player/Player" FILE="../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/player/Player.uasset" SILENT=true
+[2022.07.27-17.58.37:658][322]LogSavePackage: Moving '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Saved/PlayerED1A8E0D427F1729DCA303AD60EF24FB.tmp' to '../../../../Users/scott/Documents/GitHub/farmerrgeddon/Farmergeddon/Content/ThirdPersonBP/player/Player.uasset'
+[2022.07.27-17.58.37:689][322]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.27-17.58.37:689][322]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/player/PlayerParent.PlayerParent
+[2022.07.27-17.58.37:689][322]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/player/Player.Player
+[2022.07.27-17.58.37:689][322]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/player/Player.Default__Player_C
+[2022.07.27-17.58.37:689][322]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/player/Player.Player_C
+[2022.07.27-17.58.40:320][625]LogContentBrowser: Deferred new asset file creation: PlayerParent_Child
+[2022.07.27-17.58.40:348][625]LogContentBrowser: Creating deferred item: PlayerParent_Child
+[2022.07.27-17.58.50:884][890]LogContentBrowser: Attempting asset rename: PlayerParent_Child -> DayPlayer
+[2022.07.27-17.58.50:886][890]LogContentBrowser: End creating deferred item PlayerParent_Child
+[2022.07.27-17.58.55:908][461]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/player/DayPlayer.DayPlayer
+[2022.07.27-17.59.01:520][ 72]LogSlate: Window 'DayPlayer' being destroyed
+[2022.07.27-17.59.16:374][642]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/player/PlayerParent.PlayerParent
+[2022.07.27-17.59.19:548][924]BlueprintLog: New page: Compile PlayerParent
+[2022.07.27-17.59.19:613][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.07.27-17.59.35:032][603]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.07.27-17.59.35:032][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.27-18.00.01:269][615]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/player/PlayerParent.PlayerParent
+[2022.07.27-18.00.30:044][496]BlueprintLog: New page: Compile PlayerParent
+[2022.07.27-18.00.30:060][496]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.07.27-18.00.30:179][496]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.120 s
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: === Handled ensure: ===
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: 
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: Ensure condition failed: !FBlueprintCompileReinstancer::IsReinstClass(OwnerClass) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1763]
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: OwnerClass should not be 'REINST_'! This means that a REINST class was parented to another REINST class, causing unwanted recursion!
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: Stack: 
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa310948c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa308abd78 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa5a7be3bd UE4Editor-Kismet.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa5a7be501 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa5a794627 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa5a73c02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa5a73bd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa308800de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa5a83ee7c UE4Editor-Kismet.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa5a85ca46 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa658bcf28 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa658e2082 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa658bca87 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa6595a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa6597280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa657c421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa6583e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa65827097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa65819b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa917cc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa917b92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa917ce465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa917b4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffabc56e858 USER32.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffabc56e299 USER32.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffa917cfcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ff7839f7621 UE4Editor.exe!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ff783a10fcc UE4Editor.exe!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ff783a110ba UE4Editor.exe!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ff783a140dd UE4Editor.exe!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ff783a25984 UE4Editor.exe!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ff783a2853a UE4Editor.exe!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffabb8f7034 KERNEL32.DLL!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: [Callstack] 0x00007ffabcb42651 ntdll.dll!UnknownFunction []
+[2022.07.27-18.00.30:180][496]LogOutputDevice: Error: 
